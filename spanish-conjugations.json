@@ -1,0 +1,160 @@
+{
+  "ser": {
+    "definition": "to be",
+    "present participle": "siendo",
+    "past participle": "sido",
+    "indicative": {
+      "present": {
+        "yo": "soy",
+        "t\u00fa": "eres",
+        "\u00e9l/ella/Ud.": "es",
+        "nosotros": "somos",
+        "ellos/ellas/Uds.": "son"
+      },
+      "preterite": {
+        "yo": "fu\u00ed",
+        "t\u00fa": "fuiste",
+        "\u00e9l/ella/Ud.": "fue",
+        "nosotros": "fuimos",
+        "ellos/ellas/Uds.": "fueron"
+      },
+      "imperfect": {
+        "yo": "era",
+        "t\u00fa": "eras",
+        "\u00e9l/ella/Ud.": "era",
+        "nosotros": "\u00e9ramos",
+        "ellos/ellas/Uds.": "eran"
+      },
+      "conditional": {
+        "yo": "ser\u00eda",
+        "t\u00fa": "ser\u00edas",
+        "\u00e9l/ella/Ud.": "ser\u00eda",
+        "nosotros": "ser\u00edamos",
+        "ellos/ellas/Uds.": "ser\u00edan"
+      },
+      "future": {
+        "yo": "ser\u00e9",
+        "t\u00fa": "ser\u00e1s",
+        "\u00e9l/ella/Ud.": "ser\u00e1",
+        "nosotros": "seremos",
+        "ellos/ellas/Uds.": "ser\u00e1n"
+      }
+    },
+    "subjunctive": {
+      "present": {
+        "yo": "sea",
+        "t\u00fa": "seas",
+        "\u00e9l/ella/Ud.": "sea",
+        "nosotros": "seamos",
+        "ellos/ellas/Uds.": "sean"
+      },
+      "imperfect": {
+        "yo": "fuera",
+        "t\u00fa": "fueras",
+        "\u00e9l/ella/Ud.": "fuera",
+        "nosotros": "fu\u00e9ramos",
+        "ellos/ellas/Uds.": "fueran"
+      },
+      "future": {
+        "yo": "fuere",
+        "t\u00fa": "fueres",
+        "\u00e9l/ella/Ud.": "fuere",
+        "nosotros": "fu\u00e9remos",
+        "ellos/ellas/Uds.": "fueren"
+      }
+    },
+    "imperative": {
+      "affirmative": {
+        "t\u00fa": "s\u00e9",
+        "\u00e9l/ella/Ud.": "sea",
+        "nosotros": "seamos",
+        "ellos/ellas/Uds.": "sean"
+      },
+      "negative": {
+        "t\u00fa": "no seas",
+        "\u00e9l/ella/Ud.": "no sea",
+        "nosotros": "no seamos",
+        "ellos/ellas/Uds.": "no sean"
+      }
+    }
+  },
+  "estar": {
+    "definition": "to be",
+    "present participle": "estando",
+    "past participle": "estado",
+    "indicative": {
+      "present": {
+        "yo": "estoy",
+        "t\u00fa": "est\u00e1s",
+        "\u00e9l/ella/Ud.": "est\u00e1",
+        "nosotros": "estamos",
+        "ellos/ellas/Uds.": "est\u00e1n"
+      },
+      "preterite": {
+        "yo": "estuve",
+        "t\u00fa": "estuviste",
+        "\u00e9l/ella/Ud.": "estuvo",
+        "nosotros": "estuvimos",
+        "ellos/ellas/Uds.": "estuvieron"
+      },
+      "imperfect": {
+        "yo": "estaba",
+        "t\u00fa": "estabas",
+        "\u00e9l/ella/Ud.": "estaba",
+        "nosotros": "est\u00e1bamos",
+        "ellos/ellas/Uds.": "estaban"
+      },
+      "conditional": {
+        "yo": "estar\u00eda",
+        "t\u00fa": "estar\u00edas",
+        "\u00e9l/ella/Ud.": "estar\u00eda",
+        "nosotros": "estar\u00edamos",
+        "ellos/ellas/Uds.": "estar\u00edan"
+      },
+      "future": {
+        "yo": "estar\u00e9",
+        "t\u00fa": "estar\u00e1s",
+        "\u00e9l/ella/Ud.": "estar\u00e1",
+        "nosotros": "estaremos",
+        "ellos/ellas/Uds.": "estar\u00e1n"
+      }
+    },
+    "subjunctive": {
+      "present": {
+        "yo": "est\u00e9",
+        "t\u00fa": "est\u00e9s",
+        "\u00e9l/ella/Ud.": "est\u00e9",
+        "nosotros": "estemos",
+        "ellos/ellas/Uds.": "est\u00e9n"
+      },
+      "imperfect": {
+        "yo": "estuviera",
+        "t\u00fa": "estuvieras",
+        "\u00e9l/ella/Ud.": "estuviera",
+        "nosotros": "estuvi\u00e9ramos",
+        "ellos/ellas/Uds.": "estuvieran"
+      },
+      "future": {
+        "yo": "estuviere",
+        "t\u00fa": "estuvieres",
+        "\u00e9l/ella/Ud.": "estuviere",
+        "nosotros": "estuvi\u00e9remos",
+        "ellos/ellas/Uds.": "estuvieren"
+      }
+    },
+    "imperative": {
+      "affirmative": {
+        "t\u00fa": "est\u00e1",
+        "\u00e9l/ella/Ud.": "est\u00e9",
+        "nosotros": "estemos",
+        "ellos/ellas/Uds.": "est\u00e9n"
+      },
+      "negative": {
+        "t\u00fa": "no est\u00e9s",
+        "\u00e9l/ella/Ud.": "no est\u00e9",
+        "nosotros": "no estemos",
+        "ellos/ellas/Uds.": "no est\u00e9n"
+      }
+    }
+  }
+}
