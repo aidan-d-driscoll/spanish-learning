@@ -156,5 +156,163 @@
         "ellos/ellas/Uds.": "no est\u00e9n"
       }
     }
+  },
+  "ir": {
+    "definition": "to go",
+    "present participle": "yendo",
+    "past participle": "ido",
+    "indicative": {
+      "present": {
+        "yo": "voy",
+        "t\u00fa": "vas",
+        "\u00e9l/ella/Ud.": "va",
+        "nosotros": "vamos",
+        "ellos/ellas/Uds.": "van"
+      },
+      "preterite": {
+        "yo": "fui",
+        "t\u00fa": "fuiste",
+        "\u00e9l/ella/Ud.": "fue",
+        "nosotros": "fuimos",
+        "ellos/ellas/Uds.": "fueron"
+      },
+      "imperfect": {
+        "yo": "iba",
+        "t\u00fa": "ibas",
+        "\u00e9l/ella/Ud.": "iba",
+        "nosotros": "\u00edbamos",
+        "ellos/ellas/Uds.": "iban"
+      },
+      "conditional": {
+        "yo": "ir\u00eda",
+        "t\u00fa": "ir\u00edas",
+        "\u00e9l/ella/Ud.": "ir\u00eda",
+        "nosotros": "ir\u00edamos",
+        "ellos/ellas/Uds.": "ir\u00edan"
+      },
+      "future": {
+        "yo": "ir\u00e9",
+        "t\u00fa": "ir\u00e1s",
+        "\u00e9l/ella/Ud.": "ir\u00e1",
+        "nosotros": "iremos",
+        "ellos/ellas/Uds.": "ir\u00e1n"
+      }
+    },
+    "subjunctive": {
+      "present": {
+        "yo": "vaya",
+        "t\u00fa": "vayas",
+        "\u00e9l/ella/Ud.": "vaya",
+        "nosotros": "vayamos",
+        "ellos/ellas/Uds.": "vayan"
+      },
+      "imperfect": {
+        "yo": "fuera",
+        "t\u00fa": "fueras",
+        "\u00e9l/ella/Ud.": "fuera",
+        "nosotros": "fu\u00e9ramos",
+        "ellos/ellas/Uds.": "fueran"
+      },
+      "future": {
+        "yo": "fuere",
+        "t\u00fa": "fueres",
+        "\u00e9l/ella/Ud.": "fuere",
+        "nosotros": "fu\u00e9remos",
+        "ellos/ellas/Uds.": "fueren"
+      }
+    },
+    "imperative": {
+      "affirmative": {
+        "t\u00fa": "ve",
+        "\u00e9l/ella/Ud.": "vaya",
+        "nosotros": "vamos",
+        "ellos/ellas/Uds.": "vayan"
+      },
+      "negative": {
+        "t\u00fa": "no vayas",
+        "\u00e9l/ella/Ud.": "no vaya",
+        "nosotros": "no vayamos",
+        "ellos/ellas/Uds.": "no vayan"
+      }
+    }
+  },
+  "hacer": {
+    "definition": "to do; to make",
+    "present participle": "haciendo",
+    "past participle": "hecho",
+    "indicative": {
+      "present": {
+        "yo": "hago",
+        "t\u00fa": "haces",
+        "\u00e9l/ella/Ud.": "hace",
+        "nosotros": "hacemos",
+        "ellos/ellas/Uds.": "hacen"
+      },
+      "preterite": {
+        "yo": "hice",
+        "t\u00fa": "hiciste",
+        "\u00e9l/ella/Ud.": "hizo",
+        "nosotros": "hicimos",
+        "ellos/ellas/Uds.": "hicieron"
+      },
+      "imperfect": {
+        "yo": "hac\u00eda",
+        "t\u00fa": "hac\u00edas",
+        "\u00e9l/ella/Ud.": "hac\u00eda",
+        "nosotros": "hac\u00edamos",
+        "ellos/ellas/Uds.": "hac\u00edan"
+      },
+      "conditional": {
+        "yo": "har\u00eda",
+        "t\u00fa": "har\u00edas",
+        "\u00e9l/ella/Ud.": "har\u00eda",
+        "nosotros": "har\u00edamos",
+        "ellos/ellas/Uds.": "har\u00edan"
+      },
+      "future": {
+        "yo": "haré",
+        "t\u00fa": "harás",
+        "\u00e9l/ella/Ud.": "hará",
+        "nosotros": "haremos",
+        "ellos/ellas/Uds.": "harán"
+      }
+    },
+    "subjunctive": {
+      "present": {
+        "yo": "haga",
+        "t\u00fa": "hagas",
+        "\u00e9l/ella/Ud.": "haga",
+        "nosotros": "hagamos",
+        "ellos/ellas/Uds.": "hagan"
+      },
+      "imperfect": {
+        "yo": "hiciera",
+        "t\u00fa": "hicieras",
+        "\u00e9l/ella/Ud.": "hiciera",
+        "nosotros": "hici\u00e9ramos",
+        "ellos/ellas/Uds.": "hicieran"
+      },
+      "future": {
+        "yo": "hiciere",
+        "t\u00fa": "hicieres",
+        "\u00e9l/ella/Ud.": "hiciere",
+        "nosotros": "hiciéremos",
+        "ellos/ellas/Uds.": "hicieren"
+      }
+    },
+    "imperative": {
+      "affirmative": {
+        "t\u00fa": "haz",
+        "\u00e9l/ella/Ud.": "haga",
+        "nosotros": "hagamos",
+        "ellos/ellas/Uds.": "hagan"
+      },
+      "negative": {
+        "t\u00fa": "no hagas",
+        "\u00e9l/ella/Ud.": "no haga",
+        "nosotros": "no hagamos",
+        "ellos/ellas/Uds.": "no hagan"
+      }
+    }
   }
 }
