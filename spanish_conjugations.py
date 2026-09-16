@@ -4,7 +4,7 @@ import random
 ADD_VERBS = 0
 QUIZ_USER = 1
 
-def main():
+def main(moods: list, tenses: list):
     with open("spanish-conjugations.json", "r", encoding="utf8") as f:
         verbs_dict = json.load(f)
     verbs = list(verbs_dict.keys())
@@ -23,11 +23,12 @@ def main():
 
     elif MODE == QUIZ_USER:
 
-        moods = ["indicative", "indicative", "indicative", "indicative", "subjunctive", "subjunctive", "subjunctive", "imperative"]
+        all_moods = ["indicative", "subjunctive", "imperative"]
         tenses_indicative = ["present", "preterite", "imperfect", "conditional", "future"]
         tenses_subjunctive = ["present", "imperfect", "future"]
         tenses_imperative = ["affirmative", "negative"]
         conjugations = ["yo", "tú", "él/ella/Ud.", "nosotros", "ellos/ellas/Uds."]
+        
         while verbs:
             verb = random.choice(verbs)
             verbs.remove(verb)
@@ -38,13 +39,13 @@ def main():
             for _ in range(NUM_PER_VERB):
                 mood = random.choice(moods)
                 if mood == "indicative":
-                    tense = random.choice(tenses_indicative)
+                    tense = random.choice(list(set(tenses) & set(tenses_indicative)))
                     conjugation = random.choice(conjugations)
                 elif mood == "subjunctive":
-                    tense = random.choice(tenses_subjunctive)
+                    tense = random.choice(list(set(tenses) & set(tenses_subjunctive)))
                     conjugation = random.choice(conjugations)
                 elif mood == "imperative":
-                    tense = random.choice(tenses_imperative)
+                    tense = random.choice(list(set(tenses) & set(tenses_imperative)))
                     conjugation = random.choice(conjugations[1:])
                 input(f"\nWhat is the {mood} {tense} {conjugation} conjugation of {verb}? > ")
                 print(f"The correct conjugation is: {verbs_dict[verb][mood][tense][conjugation]}")
@@ -86,4 +87,4 @@ def add_verb(verb: str) -> dict:
 if __name__ == "__main__":
     MODE = QUIZ_USER
     NUM_PER_VERB = 3
-    main()
+    main(["indicative"], ["present", "preterite", "imperfect"])
