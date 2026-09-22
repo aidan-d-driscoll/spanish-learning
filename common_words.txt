@@ -1,0 +1,15 @@
+como : like
+aunque : although
+algunos : some
+asi que : so
+algo : something
+sobre : of
+casi : almost
+cada : each
+algún : any
+quizas : Maybe
+bueno : well, good
+vale : ok
+para : for
+claro : of course
+bastante : pretty, quite
