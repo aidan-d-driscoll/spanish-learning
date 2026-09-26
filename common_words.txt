@@ -3,7 +3,7 @@ aunque : although
 algunos : some
 asi que : so
 algo : something
-sobre : of
+sobre : of, about
 casi : almost
 cada : each
 algún : any
@@ -13,3 +13,7 @@ vale : ok
 para : for
 claro : of course
 bastante : pretty, quite
+ante : before
+asi : like that
+con : with, at
+todo : all, every

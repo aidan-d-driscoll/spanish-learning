@@ -8,6 +8,7 @@ Output a unique section, showing all new words and definitions (separated by a c
 
 """
 
+# basic version, simply displays random works from the text document.
 import random
 
 with open("spanish-vocabulary.txt", "r", encoding="utf-8") as f:

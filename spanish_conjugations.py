@@ -4,6 +4,9 @@ import random
 ADD_VERBS = 0
 QUIZ_USER = 1
 
+# basic script for randomly quizzing on verb conjugations, not terribly well done.
+# the add verbs feature is somewhat useful
+
 def main(moods: list, tenses: list):
     with open("spanish-conjugations.json", "r", encoding="utf8") as f:
         verbs_dict = json.load(f)
