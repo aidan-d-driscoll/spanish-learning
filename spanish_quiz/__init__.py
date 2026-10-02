@@ -1,0 +1,1 @@
+"""Spanish quiz GUI package."""
