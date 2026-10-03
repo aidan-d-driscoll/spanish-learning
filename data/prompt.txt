@@ -1,0 +1,7 @@
+I'm going to give you a JSON file containing my existing Spanish vocabulary notes, separated by part of speech/types of words.
+
+I'm also going to give you a text file containing (mostly) new spanish words that I want you to add to the JSON file.
+
+Take the new list of words and correct it for me. Fix typos, include missing accents, improve on definitions (the english side can be as many words, semi colons, parentheses as needed to give a full definition), add el/la for nouns, add o/a for gendered words, expand on phrases, etc. 
+
+Output what I should add to my JSON file and where, such that my JSON will contain all the new terms from the text file.

@@ -172,7 +172,39 @@
     "la presión": "pressure",
     "el mensaje": "message",
     "el/la psicópata": "Psychopath; psychopathic person",
-    "el padrastro": "stepfather"
+    "el padrastro": "stepfather",
+    "el/la recién nacido/a": "Newborn; newborn baby",
+    "el documental": "Documentary",
+    "la formación": "Education; training; educational background",
+    "la mente": "Mind",
+    "el regalo": "Gift; present",
+    "el tesoro": "Treasure",
+    "el mono": "Monkey",
+    "el castillo": "Castle",
+    "el brazo": "Arm",
+    "la maleta": "Suitcase",
+    "la prenda (de vestir)": "Garment; item/piece of clothing",
+    "el valor": "Value; worth; courage (depending on context)",
+    "el material": "Material; materials; supplies",
+    "la calidad": "Quality",
+    "el balance": "Balance; overall assessment; balance sheet/account (depending on context)",
+    "la letra": "Letter; lyrics (depending on context)",
+    "el disco": "Record; disc; album (depending on context)",
+    "el pecho": "Chest; breast",
+    "el cotilleo": "Gossip; gossiping",
+    "el dedo": "Finger; toe (depending on context)",
+    "el blanco": "Target; bull's-eye",
+    "el objetivo": "Objective; goal; target",
+    "la entrevista": "Interview",
+    "la ira": "Anger; rage",
+    "la tristeza": "Sadness",
+    "la aclaración": "Clarification; explanation",
+    "el desafío": "Challenge",
+    "la herramienta": "Tool",
+    "el punto": "Point; dot; issue/aspect (depending on context)",
+    "el grado": "Degree; level; grade (depending on context)",
+    "la nieve": "Snow",
+    "la paz mundial": "World peace"
   },
   "infinitive": {
     "echarse una siesta": "To take a nap",
@@ -308,7 +340,31 @@
     "poner": "to put; place; set; put on (clothing); turn on (depending on context)",
     "eliminar": "to eliminate; remove; delete",
     "querer": "to want; love; care about; intend to (depending on context)",
-    "amar": "to love; have deep affection for"
+    "amar": "to love; have deep affection for",
+    "asentir": "To nod; nod in agreement; assent",
+    "formular": "To formulate; phrase; put into words",
+    "lograr": "To achieve; manage to; succeed in",
+    "desconectar": "To disconnect; unplug; switch off",
+    "tirar": "To throw; toss; throw away; pull/tug (depending on context)",
+    "mandar": "To send; order; command",
+    "pillar": "To catch; grab; get; pick up (informal, especially in Spain)",
+    "bostezar": "To yawn",
+    "socializar": "To socialize; interact with others",
+    "soportar": "To tolerate; endure; put up with; bear",
+    "entretener": "To entertain; keep occupied",
+    "desear": "To wish; desire; want",
+    "alimentar": "To feed; provide food for; fuel",
+    "destacar": "To stand out; highlight; point out; emphasize",
+    "archivar": "To file; archive",
+    "suplicar": "To beg; plead; implore",
+    "lanzar": "To throw; launch; release (e.g. a product, song, or film)",
+    "adaptar": "To adapt; modify to suit",
+    "centrar": "To focus; center; concentrate on",
+    "seleccionar": "To select; choose",
+    "pasar": "To pass; spend (time); happen; go through (depending on context)",
+    "examinar": "To examine; inspect; test",
+    "poseer": "To own; possess",
+    "haber": "To have (as an auxiliary); to have/there be in impersonal constructions"
   },
   "adjective": {
     "genial": "Great / awesome",
@@ -394,7 +450,21 @@
     "sutil": "subtle; delicate; understated",
     "capaz": "capable; able; capable of",
     "mono/a": "cute; adorable; pretty",
-    "guay": "cool; great; awesome (informal, especially common in Spain)"
+    "guay": "cool; great; awesome (informal, especially common in Spain)",
+    "fuerte": "Strong; powerful; sturdy",
+    "amargo/a": "Bitter",
+    "orgulloso/a": "Proud",
+    "minimalista": "Minimalist",
+    "caluroso/a": "Hot; warm; having hot weather",
+    "centígrado/a": "Celsius; centigrade",
+    "agotado/a": "Exhausted; worn out",
+    "lento/a": "Slow",
+    "casero/a": "Homemade; home-style",
+    "egoísta": "Selfish; self-centered",
+    "ligero/a": "Light; slight; mild (depending on context)",
+    "entero/a": "Whole; entire; intact",
+    "complejo/a": "Complex; complicated",
+    "griego/a": "Greek; from Greece"
   },
   "adverb": {
     "rápidamente": "Quickly",
@@ -414,7 +484,8 @@
     "directamente": "directly; straight",
     "fuera": "outside; out",
     "a menudo": "often; frequently",
-    "apenas": "barely; hardly; scarcely; only just"
+    "apenas": "barely; hardly; scarcely; only just",
+    "exactamente": "Exactly; precisely"
   },
   "phrase": {
     "es decir": "That is to say / in other words",
@@ -508,13 +579,23 @@
     "no pasa nada": "that's okay; no problem; it's nothing; don't worry about it",
     "irse": "to leave; to go away; to go off",
     "mi propia / mi propio": "my own; my very own",
-    "a pesar de": "despite; in spite of"
+    "a pesar de": "despite; in spite of",
+    "A ver": "Let's see; let me see",
+    "o algo así": "Or something like that; or something along those lines",
+    "camiseta de manga corta": "Short-sleeved T-shirt",
+    "tiene sentido": "Does that make sense?; That makes sense",
+    "no te molestes": "Don't bother; don't trouble yourself",
+    "me da igual": "I don't care; it's all the same to me; I don't mind",
+    "al revés": "The other way around; backwards; upside down",
+    "en vez de": "Instead of; rather than",
+    "falta de": "Lack of; absence of"
   },
   "pronoun": {
     "algo": "Something; anything",
     "ninguno/a": "None / not any",
     "alguien": "Someone; somebody",
-    "os": "you (plural, informal; direct or indirect object pronoun, mainly used in Spain)"
+    "os": "you (plural, informal; direct or indirect object pronoun, mainly used in Spain)",
+    "lo que": "What; that which; whatever (depending on context)"
   },
   "determiner": {
     "algunos/as": "Some / a few",
@@ -523,7 +604,8 @@
     "otro/a": "Other / another",
     "tantos/as": "So many / so much",
     "cada": "Each; every",
-    "tanto/a": "so much; so many; as much; as many (depending on context)"
+    "tanto/a": "so much; so many; as much; as many (depending on context)",
+    "ambos/as": "Both; both of"
   },
   "preposition": {
     "sobre": "About; regarding; on; over",
@@ -538,7 +620,8 @@
     "como si": "as if; as though",
     "porque": "because",
     "así que": "so; therefore; so then",
-    "mientras": "while; whilst; whereas"
+    "mientras": "while; whilst; whereas",
+    "hasta que": "Until; up to the point when"
   },
   "interjection": {
     "vale": "Okay / alright",

@@ -17,3 +17,5 @@ ante : before
 asi : like that
 con : with, at
 todo : all, every
+claramente : clearly
+lo que
